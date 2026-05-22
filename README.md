@@ -17,13 +17,13 @@
 MindMirror is an innovative web application that bridges Artificial Intelligence, behavioral science, and gamification to help users explore their personalities, track daily emotions, and nurture their mental well-being.
 
 ### ✨ Core Features
-* **🧠 AI Emotion Analysis:** An LLM-powered companion acting as a friend, therapist, or life coach to listen to and analyze user moods.
-* **🌐 3D Emotion Globe:** A highly interactive 3D visualization that maps your daily emotional journal entries onto a spinning sphere.
-* **🌿 Gamified Mood Garden:** A daily quest system where users "water" their Mind Tree, earning XP and unlocking badges.
-* **🧩 Personality & MBTI Tests:** Discover your inner self through beautifully designed quizzes mapping out the 16 personality archetypes.
-* **🎮 Healing Corner:** A collection of stress-relief tools including a Zen Sand Garden, 4-7-8 Breathing exercises, and Emotion Memory Match.
-* **💌 Future Letters & Mind Replay:** Create time-capsule letters for your future self, alongside AI-generated psychological recaps.
-* **🌍 Multi-language i18n:** Built-in support for 6 languages.
+* **🧠** An LLM-powered companion acting as a friend, therapist, or life coach to listen to and analyze user moods.
+* **🌐** A highly interactive 3D visualization that maps your daily emotional journal entries onto a spinning sphere.
+* **🌿** A daily quest system where users "water" their Mind Tree, earning XP and unlocking badges.
+* **🧩** Discover your inner self through beautifully designed quizzes mapping out the 16 personality archetypes.
+* **🎮** A collection of stress-relief tools including a Zen Sand Garden, 4-7-8 Breathing exercises, and Emotion Memory Match.
+* **💌** Create time-capsule letters for your future self, alongside AI-generated psychological recaps.
+* **🌍** Built-in support for 6 languages.
 
 ### 💻 Under the Hood (Cool Code Aspects)
 * **Native Canvas 3D Rendering:** No heavy `Three.js` or WebGL libraries. Features like the *3D Globe* and the *Zen Garden sand drawing* rely entirely on custom spatial math and raw HTML5 `<canvas>` rendering.
@@ -42,16 +42,16 @@ npm start
 
 <h2 id="tiếng-việt">🇻🇳 Tiếng Việt</h2>
 
-MindMirror là một ứng dụng web kết hợp giữa Trí tuệ nhân tạo (AI), khoa học hành vi và gamification nhằm giúp người dùng khám phá tính cách, theo dõi cảm xúc và chăm sóc sức khỏe tinh thần.
+MindMirror là một ứng dụng web kết hợp giữa Trí tuệ nhân tạo (AI), khoa học hành vi và "game hoá" nhằm giúp người dùng khám phá tính cách, theo dõi cảm xúc và chăm sóc sức khỏe tinh thần.
 
 ### ✨ Tính Năng Nổi Bật
-* **🧠 AI Phân Tích Cảm Xúc:** Chatbot tích hợp LLM đóng vai trò như một người bạn, nhà trị liệu để lắng nghe và phân tích tâm trạng.
-* **🌐 Quả Cầu Cảm Xúc 3D:** Trực quan hóa dữ liệu nhật ký cảm xúc theo thời gian thực trên một quả cầu 3D tương tác.
-* **🌿 Khu Vườn Tâm Trạng:** Hệ thống nhiệm vụ hàng ngày giúp người dùng "tưới nước" và nuôi lớn Cây Tinh Thần, tích lũy điểm XP.
-* **🧩 Bài Test Tâm Lý & MBTI:** Khám phá 16 nhóm tính cách với giao diện trực quan và phân tích chi tiết.
-* **🎮 Góc Chữa Lành:** Các công cụ giải tỏa căng thẳng như Vẽ Vườn Zen trên cát, Bài tập thở 4-7-8, Lật thẻ bài trí nhớ.
-* **💌 Thư Gửi Tương Lai & Replay:** Tính năng viết thư dạng "Time-capsule" và AI tự động tổng kết hành trình phát triển tâm lý.
-* **🌍 Đa Ngôn Ngữ:** Tích hợp sẵn 6 ngôn ngữ.
+* **🧠** Chatbot tích hợp LLM đóng vai trò như một người bạn, nhà trị liệu để lắng nghe và phân tích tâm trạng.
+* **🌐** Trực quan hóa dữ liệu nhật ký cảm xúc theo thời gian thực trên một quả cầu 3D tương tác.
+* **🌿** Hệ thống nhiệm vụ hàng ngày giúp người dùng "tưới nước" và nuôi lớn Cây Tinh Thần, tích lũy điểm XP.
+* **🧩** Khám phá 16 nhóm tính cách với giao diện trực quan và phân tích chi tiết.
+* **🎮** Các công cụ giải tỏa căng thẳng như Vẽ Vườn Zen trên cát, Bài tập thở 4-7-8, Lật thẻ bài trí nhớ.
+* **💌** Tính năng viết thư dạng "Time-capsule" và AI tự động tổng kết hành trình phát triển tâm lý.
+* **🌍** Tích hợp sẵn 6 ngôn ngữ.
 
 ### 💻 Điểm Thú Vị Trong Code
 * **Rendering 3D bằng Native Canvas:** Không cần phụ thuộc vào `Three.js` hay WebGL, tính năng *Quả Cầu 3D* và *Vẽ Vườn Zen* được render hoàn toàn bằng HTML5 `<canvas>` thuần cùng Vanilla JS.
